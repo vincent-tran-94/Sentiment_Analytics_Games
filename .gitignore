@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 env/
-twitter_training.csv
+data/*.csv
