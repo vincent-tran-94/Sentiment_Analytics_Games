@@ -1,4 +1,4 @@
-# Sentiment_Analytics_Games
+# Sentiment_Analytics_Video_Games
 Analyse sentimentale des tweets sur les jeux vidéos
 
 L'objectif principal de ce projet est de déterminer si un type de jeu est perçu comme bon, mauvais ou neutre à partir d'un ensemble de tweets, en utilisant des modèles de traitement du langage naturel (NLP) ou de Machine Learning. <br>
