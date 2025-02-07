@@ -18,7 +18,9 @@ https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis (Lie
 ## Image sur les sentiments des mots par nom de jeu
 <img src="Best_Vocabulary_sentimental_by_game.png"/>
 
+
 ## Installations à faire 
+### Installation Python 
 - Version Python 3.11.7 <br>
 Importer le lien du projet et puis créez votre environnement virtuel
 ```
@@ -29,4 +31,9 @@ source env/Scripts/activate
 Installer les dépendances 
 ```
 pip install -r requirements.txt
+```
+### Installation graphviz
+Vous devez installer graphviz pour pouvoir afficher le modèle de l'arbre de décision si non le notebook ne pourra pas se lancer
+```
+https://graphviz.gitlab.io/download/
 ```
