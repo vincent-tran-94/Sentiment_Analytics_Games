@@ -15,9 +15,11 @@ Par ailleurs, nous explorerons des outils d'interprétabilité pour analyser les
 
 https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis (Lien de téléchargement de deux datasets) <br>
 
+## Architecture du projet Machine Learning - Sentiment Analysis Tweets 
+<img src="graphes/Architecture_ML2.drawio.png"/>
+
 ## Image sur les sentiments des mots par nom de jeu
 <img src="graphes/Best_Vocabulary_sentimental_by_game.png"/>
-
 
 ## Installations à faire 
 ### Installation Python 
